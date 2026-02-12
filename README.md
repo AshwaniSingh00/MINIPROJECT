@@ -75,20 +75,5 @@ npm start
 
 ---
 
-## 🤝 Contributing
-Contributions are welcome! Feel free to fork the repository and submit pull requests.
-
----
-
-## 📄 License
-This project is licensed under the MIT License.
-
----
-
-## 👨‍💻 Author
-**AshwaniSingh00**
-
----
-
-## 📞 Support
+##  Support
 For any issues or questions, please open an issue on the GitHub repository.
