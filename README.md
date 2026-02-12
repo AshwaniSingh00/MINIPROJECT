@@ -35,10 +35,10 @@ The project helps streamline communication between donors and recipients and red
 
 ## 📁 Project Structure
 
-MINIPROJECT/
+###MINIPROJECT/
 │
-├── frontend/ # React application
-├── backend/ # Node.js & Express server
+├── frontend/ React application
+├── backend/  Node.js & Express server
 └── README.md
 
 
@@ -46,7 +46,7 @@ MINIPROJECT/
 
 ## ⚙️ How to Run the Project
 
-### 1️⃣ Clone the Repository
+ 1️⃣ Clone the Repository
 ```bash
 git clone https://github.com/AshwaniSingh00/MINIPROJECT.git
 2️⃣ Run Frontend (React)
